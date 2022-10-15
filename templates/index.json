@@ -29,9 +29,37 @@
         "padding_top": 40,
         "padding_bottom": 0
       }
+    },
+    "616d2202-0840-4d1a-af8c-b8c4de12a0ab": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "collection",
+        "heading_size": "h0",
+        "description": "<p>f<em><strong>dsf<\/strong><\/em><\/p>",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "",
+        "products_to_show": 12,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "inverse",
+        "image_ratio": "portrait",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "rich_text"
+    "rich_text",
+    "616d2202-0840-4d1a-af8c-b8c4de12a0ab"
   ]
 }
